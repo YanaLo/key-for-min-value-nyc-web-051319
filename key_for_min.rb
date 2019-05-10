@@ -9,3 +9,6 @@ if key==nil ||v<value
   value=v
   key=k
 end
+end
+key
+end
